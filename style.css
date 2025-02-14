@@ -466,7 +466,6 @@ header {
 
     visibility: visible;
     opacity: 1;
-    /* transition: 0.1s; */
 
 }
 
@@ -483,8 +482,6 @@ header {
     visibility: hidden;
     opacity: 0;
     position: absolute;
-    /* transition: 0.1s; */
-
 
 }
 
